@@ -1,3 +1,6 @@
 [submodule "src/web/pdlLesterProductions"]
 	path = src/web/pdlLesterProductions
 	url = git@github.com:ProDataLab/pdlLesterProductions.git
+[submodule "src/web/pdlWebsite"]
+	path = src/web/pdlWebsite
+	url = git@github.com:ProDataLab/pdlWebsite.git
