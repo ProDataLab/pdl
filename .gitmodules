@@ -4,3 +4,9 @@
 [submodule "src/web/pdlWebsite"]
 	path = src/web/pdlWebsite
 	url = git@github.com:ProDataLab/pdlWebsite.git
+[submodule "src/pdlCompiler"]
+	path = src/pdlCompiler
+	url = git@github.com:ProDataLab/pdlCompiler.git
+[submodule "src/pdlWebScraper"]
+	path = src/pdlWebScraper
+	url = git@github.com:ProDataLab/pdlWebScraper.git
